@@ -44,7 +44,7 @@ open the command prompt again and run `cd ../` command for go back to the root f
 Launching the website locally by using the following command:
 
 ```
-hugo serve
+hugo server
 ```
 
 Go to `http://localhost:1313`
